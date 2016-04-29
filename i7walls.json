@@ -1,0 +1,35 @@
+{ 
+"wallpapers": 
+	[ 
+	{
+			"author": "Sunnny Techs",
+			"url": "http://i.imgur.com/dDH3QRk.jpg",
+			"name": "1"
+		},
+		{
+			"author": "Sunnny Techs",
+			"url": "http://i.imgur.com/nW2Ehkb.jpg",
+			"name": "2"
+		},
+		{
+			"author": "Sunnny Techs",
+			"url": "http://i.imgur.com/ZDCMKaT.jpg",
+			"name": "3"
+		},
+		{
+			"author": "Sunnny Techs",
+			"url": "http://i.imgur.com/YPKMhaO.jpg",
+			"name": "4"
+		},
+		{
+			"author": "Sunnny Techs",
+			"url": "http://i.imgur.com/9x7GQqy.jpg",
+			"name": "5"
+		},
+		{
+			"author": "Sunnny Techs",
+			"url": "http://i.imgur.com/cX27JXp.jpg",
+			"name": "6"
+		}
+	]
+}
